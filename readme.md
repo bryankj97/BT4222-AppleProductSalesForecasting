@@ -1,4 +1,6 @@
-# Description of Project
+# Apple Product Sales Forecasting
+
+## Description of Project
 The sequence for this project is 
 1. Train Sentiment classifiers on kaggle tweets
 2. Scrape tweets
