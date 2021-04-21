@@ -10,8 +10,8 @@ The sequence for this project is
 The scripts we used to complete are detailed below:
 
 ### Training Sentiment Classifiers
-- Sentiment Analysis - Vader & CountVect
-- sentiment_scoring
+- sentiment_analysis_vader_countvect
+- sentiment_analysis_roberta_lemmatizedcountvect
 
 ### Scraping Tweets
 - scrapingtweets
